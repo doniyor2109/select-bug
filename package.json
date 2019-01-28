@@ -1,0 +1,13 @@
+{
+  "name": "select-bug-ssr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:doniyor2109/select-bug.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^10.1.1"
+  }
+}
